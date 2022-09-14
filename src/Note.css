@@ -1,0 +1,23 @@
+.note {
+   background-color: #ffdf00;
+   min-height: 180px;
+   border-radius: 10px;
+   padding: 1rem;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   word-wrap: break-word;
+}
+
+.note__footer {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.delete {
+   /* text-align: center; */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}

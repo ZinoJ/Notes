@@ -1,0 +1,16 @@
+.searchNotes {
+   display: flex;
+   align-items: center;
+   padding: 10px;
+   
+   background-color: rgb(221, 220, 220);
+   border-radius: 8px;
+}
+
+.searchNotes > input {
+   padding: 8px;
+   width: 100%;
+   border: none;
+   background-color: transparent;
+   outline: none;
+}
